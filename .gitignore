@@ -3,3 +3,10 @@
 *.hex
 *.lst
 *.map
+
+*-bak
+*.bak
+*.bck
+*-cache
+*-backups
+*.kicad_prl
